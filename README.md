@@ -1,2 +1,2 @@
-# oopdasar-inheritance
-inheritance
+# oop-dasar-inheritance
+oop bab inheritance
